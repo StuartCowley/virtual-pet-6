@@ -10,4 +10,10 @@ describe ('constructor', () => {
 
         expect(pet.name).toEqual('Fido')
     })
+
+    it('has an initial age of 0', () => {
+        const pet = new Pet('Fido');
+
+        expect(pet.age).toEqual(0);
+    })
 })
