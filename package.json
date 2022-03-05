@@ -1,0 +1,22 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "Tamagotchi-style game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coramarcu/virtual-pet.git"
+  },
+  "author": "Cora Marcu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coramarcu/virtual-pet/issues"
+  },
+  "homepage": "https://github.com/coramarcu/virtual-pet#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
